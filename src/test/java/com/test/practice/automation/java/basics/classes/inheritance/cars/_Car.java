@@ -18,7 +18,7 @@ public class _Car {
     public String name;
     protected int numberOfSeats;    //Access modifier is protected : current class and inheritance
     private int numberOfDoors;      //Access modifier is private : only accessible to current class
-    String others;                    //No Access modifier also know as default access modifier : current package only
+    String colour;                    //No Access modifier also know as default access modifier : current package only
 
 
 }
