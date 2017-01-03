@@ -38,9 +38,18 @@ public class PlayHangman {
          * 5. User will be asked to guess a letter for each turn
          *  - If letter matches SECRET_WORD than replace _ with the letter guessed
          *      - So if SECRET_WORD is "Seven" and user guessed "e" than display :  _ e _ e _
+         *  - Display a list of already guessed words
+         *      - So user is able to make better decision
          *
          * 6. After each guess
          *  - Check if the SECRET_WORD is complete
+         *      - If complete than print a message out with :
+         *          - The completed SECRET_WORD
+         *          - The number of tries it took to complete the word
+         *          - List of all guesses
+         *  - If SECRET_WORD not fully completed
+         *      - Then repeat from step (4)
+         *      - Until either we have reached 10 turns or we have found the SECRET_WORD
          */
 
     }

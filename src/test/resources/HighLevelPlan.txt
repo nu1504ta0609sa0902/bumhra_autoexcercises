@@ -62,7 +62,7 @@ Time estimated : 2 weeks
 Total Time Estimated: 5-7 weeks
 
 ---------------------------------------------------
-Potential Excecises
+Potential Exercises
 ---------------------------------------------------
 
 1. Showing understanding of Classes and objects:
