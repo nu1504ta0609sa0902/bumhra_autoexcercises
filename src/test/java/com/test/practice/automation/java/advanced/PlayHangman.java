@@ -1,4 +1,4 @@
-package com.test.practice.automation.java.basics.excercise.advanced;
+package com.test.practice.automation.java.advanced;
 
 import java.util.ArrayList;
 import java.util.HashMap;

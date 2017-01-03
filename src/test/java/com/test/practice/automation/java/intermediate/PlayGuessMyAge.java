@@ -1,4 +1,4 @@
-package com.test.practice.automation.java.basics.excercise.intermediate;
+package com.test.practice.automation.java.intermediate;
 
 /**
  * Created by TPD_Auto on 03/01/2017.
