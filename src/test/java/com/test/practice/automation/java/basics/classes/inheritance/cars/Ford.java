@@ -10,7 +10,7 @@ public class Ford extends _Car {
     public static void main(String[] args){
 
         /**
-         * Aim: Try and understand the different access modifiers
+         * @Todo Aim: Try and understand the different access modifiers
          * 1. Print out the variables defined in the Car class
          * 2. Try to print all the properties and take down notes on which ones are visible and why (Its to do with Access Modifiers)
          */

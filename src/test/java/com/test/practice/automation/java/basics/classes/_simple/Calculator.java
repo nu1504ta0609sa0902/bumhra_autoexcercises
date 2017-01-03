@@ -1,7 +1,13 @@
-package com.test.practice.automation.java.basics.classes.simple;
+package com.test.practice.automation.java.basics.classes._simple;
 
 /**
  * Created by TPD_Auto on 03/01/2017.
+ *
+ * Learn to differentiate access modifiers. public, private, protected
+ * public int age = 20;                    //Visible in every package
+ * protected String month = "December";    //Visible within current package or via inheritance
+ * private double weeklySalary = 190.50;   //Only visible in current class
+ * int numberOfWeeksPerYear = 52;          //Current package only
  */
 public class Calculator {
 

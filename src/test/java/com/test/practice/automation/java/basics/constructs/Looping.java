@@ -1,4 +1,4 @@
-package com.test.practice.automation.java.basics.excercise;
+package com.test.practice.automation.java.basics.constructs;
 
 /**
  * Created by TPD_Auto on 15/12/2016.

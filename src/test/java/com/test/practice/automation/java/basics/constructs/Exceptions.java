@@ -1,8 +1,4 @@
-package com.test.practice.automation.java.basics.excercise;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+package com.test.practice.automation.java.basics.constructs;
 
 /**
  * Created by TPD_Auto on 03/01/2017.

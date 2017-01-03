@@ -12,17 +12,60 @@ public class ReadNumbers {
 
     public static void main(String[] args) {
 
+        Double number = getNumber();
+
+        /**
+         * @Todo Aim: Read a number from console
+         *
+         * 1. Read a number
+         * 2. Print to the screen
+         */
+
+
+        /**
+         * @Todo Aim: Using a for loop read 5 numbers and add it all up
+         *
+         * 1. Using a for loop Read 5 numbers and print the sum
+         *  - each time we add a number to the previous total, print the sum to console
+         */
+
+
+        /**
+         * @Todo Aim: Using a for loop read 5 numbers and only add the number if its an EVEN number
+         *
+         * 1. Using a for loop Read 5 numbers and print the sum
+         *  - each time we add a number to the previous total, print the sum to console
+         *  - remember to only add even numbers
+         */
+
+
+        /**
+         * @Todo Aim: Using a for loop read 5 numbers and only add the number if its an ODD number
+         *
+         * 1. Using a for loop Read 5 numbers and print the sum
+         *  - each time we add a number to the previous total, print the sum to console
+         *  - remember to only add ODD numbers
+         */
+
+
+
+    }
+
+    /**
+     * This is a very basic reader
+     * @return
+     */
+    private static Double getNumber() {
         //The line below will read from console
         try {
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             String someValue = reader.readLine();
+            double v = Double.parseDouble(someValue);
+            return v;
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        /**
-         * @Todo Aim:
-         */
-
+        return 0.0;
     }
+
 }

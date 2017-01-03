@@ -1,4 +1,4 @@
-package com.test.practice.automation.java.basics.excercise;
+package com.test.practice.automation.java.basics.constructs;
 
 /**
  * Created by TPD_Auto on 15/12/2016.
@@ -12,16 +12,16 @@ public class Primitives {
     public static void main(String[] args){
 
         /**
-         * @Todo Aim: Perform simple calculation using integers
+         * @Todo Aim: Perform _simple calculation using integers
          * 1. create 2 variables of type integers with values, call it what ever you want e.g number1, number2
          * 2. create a new integer variable called "sum"
-         * 3. perform a simple addition of integers you've created in step (1) and store the value into variable "sum"
+         * 3. perform a _simple addition of integers you've created in step (1) and store the value into variable "sum"
          * 4. print the sum of step (3) into the console
          */
 
 
         /**
-         * @Todo Aim: Perform simple string concatenation
+         * @Todo Aim: Perform _simple string concatenation
          * 1. Create 2 variable of type string, call first variable "firstName" and second variable "lastName" and initialise with your first/last name
          * 2. Print out your name to the console
          * 3. Create a variable called fullName, and set fullName = firstName and lastName

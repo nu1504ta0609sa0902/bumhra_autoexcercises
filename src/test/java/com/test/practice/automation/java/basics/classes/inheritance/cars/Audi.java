@@ -1,7 +1,5 @@
 package com.test.practice.automation.java.basics.classes.inheritance.cars;
 
-import com.test.practice.automation.java.basics.classes.simple.Person;
-
 /**
  * Created by TPD_Auto on 16/12/2016.
  *
@@ -17,6 +15,8 @@ public class Audi extends _Car {
          * 2. Try to print all the properties and take down notes on which ones are visible and why (Its to do with Access Modifiers)
          */
         Audi audi = new Audi();
+        System.out.println(audi.name);
+        System.out.println(audi.numberOfWheels);
 
     }
 }
