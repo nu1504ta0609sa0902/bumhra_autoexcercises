@@ -1,0 +1,128 @@
+NOTE: This assumes the learner will take initiatives to do
+some self learning outside of work.
+
+---------------------------------------------------
+HIGH LEVEL PLAN ON GETTING STARTED WITH AUTOMATION:
+---------------------------------------------------
+
+1. Learn basics of Java
+	- primitives
+	- looping
+	- conditional statements
+	- Class and objects
+		- Understand getter and setter methods
+	- Able to run individual classes
+
+	- Complete tasks using CodeAcademy
+		- Once you are able to write Classes using all the basic features
+		- Then you will need to verify it
+
+
+2. Learn how to bring different features together in Java
+
+	- Able to write simple classes
+	- Able to understand the differences between Class, Object, Interfaces
+	- Need to create tests
+
+	- ANDY TO SEND EMAIL TO YAASEEN STATING IT WILL HELP YAASEEN
+		IF SOGETI CAN SEND HIM TO A CORE JAVA TRAINING COURSE WHILE HE IS ON BENCH DURING CHRISTMAS HOLIDAY
+
+Time estimated : 2-3 weeks
+
+
+---------------------------------------------------
+Laptop must have admin rights to install softwares
+---------------------------------------------------
+
+
+3. Learn testing aspects of Java
+
+	- JUnit
+	- Write tests using JUnit
+	- Write classes and tests using JUnit
+
+Time estimated : weeks
+
+4. Understanding Selenium WebDriver
+
+	- Learn to use tools like firebug, and other developer tools
+	- Learn to find different page elements
+	- Write simple tests using Selenium + JUnit
+		- Example automate searching for a particular journey using TFL website
+
+	- Write simple tests using Selenium + Junit + PageObjects
+		- Understand the benefits of using PageObjects
+
+Time estimated : 2 weeks
+
+	- Write simple tests using Selenium + Cucumber + PageObjects
+		- This is where YAASEEN gets started on our project
+
+
+Total Time Estimated: 5-7 weeks
+
+---------------------------------------------------
+Potential Excecises
+---------------------------------------------------
+
+1. Showing understanding of Classes and objects:
+
+	- Think about writing a class called "House":
+	- What types of features will you consider to be included in a house
+		- Door
+			- InsideDoor
+			- OutsideDoor
+		- Window
+		- Room
+			- Bedroom
+			- Bathroom
+			- ReceptionRoom
+
+	- Write classes to represent the House class
+		- It will print out:
+			the number of rooms house has
+			the number of windows in the house
+			the number of doors
+
+2. Write a calculator class which will perform simple calculation:
+	- add
+	- multiply
+
+	- Write JUnit tests to verify the methods add and multiply return correct data
+
+3. Write a Person class
+
+	- With what ever fields you deem necessary
+		- Age, Name etc
+
+	- Write JUnit tests to verify the ages are correct
+
+4. Write selenium + JUnit tests to:
+	- A
+	- Open TFL journey planner
+	- Enter from station
+	- Enter to station
+	- Perform a search
+	- Verify results
+	- Repeat tests with different sets of data
+
+	- B
+	- Open google website
+	- Type in some text
+	- Select value from autosuggests
+	- Perform search
+	- Verify results
+	- Repeat tests with different sets of data
+
+
+5. Write Selenium + PageObject + Junit
+	- Change the above tests to use page objects
+	- Think how you will model the pages in above scenarios
+
+
+6. Other tests will be given as an when necessary:
+
+	- Questions will be asked randomly to verify understanding of different concepts
+	- Write tests to verify some random requirements
+		- Write me a class called XYZ and verify its working as you would expect
+
