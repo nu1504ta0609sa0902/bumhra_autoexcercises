@@ -6,10 +6,10 @@ package com.test.practice.automation.java.basics.classes.inheritance.cars;
  * Overview: Learn about starter, variables, methods, access modifiers and inheritance
  *
  * Learn to differentiate different access modifiers. public, private, protected
-     public static int age = 20;                    //Visible in every package
-     protected static String month = "December";    //Visible within current package or via inheritance
-     private static double weeklySalary = 190.50;   //Only visible in current class
-     static int numberOfWeeksPerYear = 52;          //Current package only
+     public int age = 20;                    //Visible in every package
+     protected String month = "December";    //Visible within current package or via inheritance
+     private double weeklySalary = 190.50;   //Only visible in current class
+     int numberOfWeeksPerYear = 52;          //Current package only
  */
 public class _Car {
 

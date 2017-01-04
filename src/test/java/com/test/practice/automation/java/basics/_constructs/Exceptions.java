@@ -21,6 +21,7 @@ public class Exceptions {
          * 2. What will happen if we divided n2 by n1
          * 3. Write a try and catch block to prevent the program from terminating prematurely
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
     }
 }

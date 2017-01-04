@@ -20,6 +20,7 @@ public class Audi extends _Car {
          * 4. Try to view the property called colour
          *  - We can access colour but remember the Peugeot class can't access colour.
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         Audi audi = new Audi();
         System.out.println(audi.name);
         System.out.println(audi.numberOfWheels);
@@ -30,6 +31,7 @@ public class Audi extends _Car {
          * 1. So we can assign the Audi object to a car class
          * 2. Try using audiIsACar object to access the specialAudiProperty
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         _Car audiIsACar = new Audi();
     }
 }

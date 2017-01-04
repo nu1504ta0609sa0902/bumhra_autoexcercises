@@ -54,6 +54,7 @@ public class Person {
          * 1. Create a new Person object with your firstName
          * 2. Print out your firstName to console
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         Person p1 = new Person("Noor");
         String noorFirstName = p1.getFirstName();
         System.out.println(noorFirstName);
@@ -67,6 +68,7 @@ public class Person {
          * 2. Print out your firstName to console
          * 3. It should be different from the initial value "Noor"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -79,6 +81,7 @@ public class Person {
          * 5. Create a new method to set the lastName
          *  - call it something like setLastName and it should take String as an argument
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -88,5 +91,6 @@ public class Person {
          * 2. Print out your lastName to console
          * 3. It should be different from the initial value you set above
          */
+        System.out.println("\n---------------New Exercise---------------\n");
     }
 }

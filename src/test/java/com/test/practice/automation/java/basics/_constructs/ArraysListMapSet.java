@@ -16,6 +16,7 @@ public class ArraysListMapSet {
          * 2. Iterate and print array values to console using "for loop"
          * 3. Iterate and print array values to console using "while loop"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -24,6 +25,7 @@ public class ArraysListMapSet {
          * 2. Iterate and print ArrayList values to console using "for loop"
          * 3. Iterate and print ArrayList values to console using "while loop"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -32,6 +34,7 @@ public class ArraysListMapSet {
          * 2. Iterate and print HashMap values to console using "for loop"
          * 3. Iterate and print HashMap values to console using "while loop"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
 
@@ -41,6 +44,7 @@ public class ArraysListMapSet {
          * 2. Iterate and print HashSet values to console using "for loop"
          * 3. Iterate and print HashSet values to console using "while loop"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
     }
 }

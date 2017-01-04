@@ -18,6 +18,7 @@ public class Primitives {
          * 3. perform a _simple addition of integers you've created in step (1) and store the value into variable "sum"
          * 4. print the sum of step (3) into the console
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -27,6 +28,7 @@ public class Primitives {
          * 3. Create a variable called fullName, and set fullName = firstName and lastName
          * 4. Print out your fullName to the console
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
         /**
          * @Todo Aim: Verify "firstName" variable contains your name
@@ -35,6 +37,7 @@ public class Primitives {
          * 3. If "lastName" is your last name than set "isMyLastName" to true, else set to false
          * 4. Now check if its your first name and last name than print to console message "Its me : " + fullName, else print "Its not me"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
     }
 }

@@ -13,16 +13,19 @@ public class Looping {
          * @Todo Aim: Able to write for loops
          * 1. Write a for loop which will print out numbers between 1 to 10
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
         /**
          * @Todo Aim: Able to write for loops backward
          * 1. Write a for loop which will print out number between 10 to 1
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
         /**
          * @Todo Aim: Able to write while loops
          * 1. Write a while loop which will print out a number betwee 1 to 10
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -31,6 +34,7 @@ public class Looping {
          * 2. Create a new integer variable called "sumOfEvenNumbers" and if value is even number than add it to "sumOfEvenNumbers"
          * 3. Print out the total value of "sumOfEvenNumbers"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
         /**
          * @Todo Aim: Able to write for loop and add all the ODD numbers
@@ -38,6 +42,7 @@ public class Looping {
          * 2. Create a new integer variable called "sumOfOddNumbers" and if value is ODD number than add it to "sumOfOddNumbers"
          * 3. Print out the total value of "sumOfOddNumbers"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
         /**
          * @Todo Aim: Able to write while loop and add all the EVEN numbers
@@ -45,6 +50,7 @@ public class Looping {
          * 2. Create a new integer variable called "sumOfEvenNumbers2" and if value is even number than add it to "sumOfEvenNumbers2"
          * 3. Print out the total value of "sumOfEvenNumbers2"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
         /**
          * @Todo Aim: Able to write while loop and add all the ODD numbers
@@ -52,5 +58,6 @@ public class Looping {
          * 2. Create a new integer variable called "sumOfOddNumbers2" and if value is ODD number than add it to "sumOfOddNumbers2"
          * 3. Print out the total value of "sumOfOddNumbers2"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
     }
 }

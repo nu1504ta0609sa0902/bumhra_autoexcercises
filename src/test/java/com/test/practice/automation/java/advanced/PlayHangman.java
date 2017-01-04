@@ -51,6 +51,7 @@ public class PlayHangman {
          *      - Then repeat from step (4)
          *      - Until either we have reached 10 turns or we have found the SECRET_WORD
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
     }
 

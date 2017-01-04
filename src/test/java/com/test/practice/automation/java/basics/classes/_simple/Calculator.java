@@ -69,6 +69,7 @@ public class Calculator {
          *  - If its correct than print out "Correct"
          *  - Else print out "I was expecting 150"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -79,6 +80,7 @@ public class Calculator {
          *  - If its correct than print out "Correct"
          *  - Else print out "I was expecting 0"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -89,6 +91,7 @@ public class Calculator {
          *  - If its correct than print out "Correct"
          *  - Else print out "I was expecting 10"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -99,5 +102,6 @@ public class Calculator {
          *  - If its correct than print out "Correct"
          *  - Else print out "I was expecting 1000"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
     }
 }

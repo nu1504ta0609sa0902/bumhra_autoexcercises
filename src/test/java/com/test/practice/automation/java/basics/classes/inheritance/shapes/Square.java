@@ -21,5 +21,6 @@ public class Square extends _Shape{
          * 2. Print the width and height of the shape
          * 3. Calculate the area of the shape
          */
+        System.out.println("\n---------------New Exercise---------------\n");
     }
 }

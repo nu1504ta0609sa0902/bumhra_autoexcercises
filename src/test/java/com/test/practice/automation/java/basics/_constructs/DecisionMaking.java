@@ -23,6 +23,7 @@ public class DecisionMaking {
          * 3. if "month" is equal to "December" than print out "Merry Christmas ..."
          * 4. if "age" is greater than or equal to 20 than print out "You look terrible ..."
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
 
@@ -33,6 +34,7 @@ public class DecisionMaking {
          * 3. if "month" is equal to "April" than print out "New tax year ..." else print "Its not April"
          * 4. if "age" is greater than or equal to 25 than print out "You look great ..." else print "You look terrible"
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         age = 25;
         weeklySalary = 250.50;
         numberOfWeeksPerYear = 45;

@@ -15,6 +15,7 @@ public class PlayGuessMyAge {
          *    If the GUESS is < than AGE than print out "I am older than : " + GUESS age
          * 4. If GUESS is the same as AGE than print "Well done you have guessed my age correctly "
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
     }
 }

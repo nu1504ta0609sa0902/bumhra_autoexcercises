@@ -22,6 +22,7 @@ public class Peugeot extends _Car {
          * 4. Try to view the property called colour
          *  - colour is not visible because Peugeot class is in another package
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         Peugeot peugeot = new Peugeot();
 
 
@@ -30,6 +31,7 @@ public class Peugeot extends _Car {
          * 1. So we can assign the Peugeot object to a car class
          * 2. Try using peugeotIsACar object to access the specialPeugeotProperty
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         _Car peugeotIsACar = new Peugeot();
 
     }

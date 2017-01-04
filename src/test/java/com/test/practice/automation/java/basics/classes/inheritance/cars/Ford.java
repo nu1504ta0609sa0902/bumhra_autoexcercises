@@ -20,6 +20,7 @@ public class Ford extends _Car {
          * 4. Try to view the property called colour
          *  - We can access colour but remember the Peugeot class can't access colour.
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         Ford ford = new Ford();
         System.out.println(ford.specialFordProperty);
 
@@ -29,6 +30,7 @@ public class Ford extends _Car {
          * 1. So we can assign the Ford object to a car class
          * 2. Try using fordIsACar object to access the specialFordProperty
          */
+        System.out.println("\n---------------New Exercise---------------\n");
         _Car fordIsACar = new Ford();
 
     }
