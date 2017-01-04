@@ -26,5 +26,6 @@ public class Triangle3D extends _Shape{
          * 2. Print the width and height of the shape
          * 3. Calculate the VOLUME = (AREA * height) of the shape and print to console
          */
+        System.out.println("\n---------------New Exercise---------------\n");
     }
 }

@@ -20,6 +20,7 @@ public class ReadNumbers {
          * 1. Read a number
          * 2. Print to the screen
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -28,6 +29,7 @@ public class ReadNumbers {
          * 1. Using a for loop Read 5 numbers and print the sum
          *  - each time we add a number to the previous total, print the sum to console
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -37,6 +39,7 @@ public class ReadNumbers {
          *  - each time we add a number to the previous total, print the sum to console
          *  - remember to only add even numbers
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -46,6 +49,7 @@ public class ReadNumbers {
          *  - each time we add a number to the previous total, print the sum to console
          *  - remember to only add ODD numbers
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
 

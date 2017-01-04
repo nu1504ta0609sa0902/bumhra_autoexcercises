@@ -4,6 +4,7 @@ package com.test.practice.automation.java.basics.classes.inheritance.shapes;
  * Created by TPD_Auto on 16/12/2016.
  */
 public class _Shape {
+
     public double width;
     public double length;
 

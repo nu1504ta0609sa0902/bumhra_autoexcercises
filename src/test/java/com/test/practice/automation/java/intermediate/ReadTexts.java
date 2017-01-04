@@ -20,6 +20,7 @@ public class ReadTexts {
          * 1. Read a line of text
          * 2. Print to the screen
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -28,6 +29,7 @@ public class ReadTexts {
          * 1. Using a for loop Read 5 line of texts and print the lines
          *  - each time we enter a line of text to the previous lines, print the lines to console
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -37,6 +39,7 @@ public class ReadTexts {
          *  - each time we enter a line of text to the previous lines, print the lines to console
          *  - remember to only append line of texts with vowel
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
         /**
@@ -46,6 +49,7 @@ public class ReadTexts {
          *  - each time we enter a line of text to the previous lines, print the lines to console
          *  - remember to only append line of texts with no VOWEL
          */
+        System.out.println("\n---------------New Exercise---------------\n");
 
 
 
