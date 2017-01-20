@@ -1,4 +1,4 @@
-package com.test.practice.automation.junit.calculator;
+package com.test.practice.automation.junit.E1_calculator;
 
 /**
  * Created by TPD_Auto on 03/01/2017.
