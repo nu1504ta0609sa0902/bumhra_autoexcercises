@@ -18,12 +18,16 @@ public class J2_CalculatorIntermediateTest {
      *
      * @After : methods will run after each and every tests
      *
-     * 1. Create a new Calculator object with the numbers 50 and 100
+     * 1. set the calculator object to null
      */
 
 
     /**
      * @Todo Aim: Lets test the add() method
+     *
+     * Remember to use setup and teardown methods
+     *  - @Before and @After
+     *
      * 2. Use E1_calculator object to perform addition
      * 3. Check the value returned by add() is correct
      */
@@ -31,6 +35,10 @@ public class J2_CalculatorIntermediateTest {
 
     /**
      * @Todo Aim: Lets test the subtract() method
+     *
+     * Remember to use setup and teardown methods
+     *  - @Before and @After
+     *
      * 2. Use E1_calculator object to perform subtraction
      * 3. Check the value returned by subtract() is correct
      */
