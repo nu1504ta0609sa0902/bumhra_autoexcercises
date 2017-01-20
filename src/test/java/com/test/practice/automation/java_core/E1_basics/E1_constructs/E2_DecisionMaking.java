@@ -40,5 +40,17 @@ public class E2_DecisionMaking {
         numberOfWeeksPerYear = 45;
         month = "April";
 
+
+
+        /**
+         * @Todo Aim: Simple decision making part 3
+         * Loop over the array and print the following
+         * 1. if number is odd print "1 is odd"
+         * 2. if number is even print "2 is even"
+         * 3. if number is odd and 1 print "1 is ODD and SPECIAL"
+         * 4. if number is odd and 1 print "10 is EVEN and SPECIAL"
+         */
+        int [] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
     }
 }
