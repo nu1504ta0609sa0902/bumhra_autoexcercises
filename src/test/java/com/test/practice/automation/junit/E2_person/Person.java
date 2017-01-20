@@ -1,4 +1,4 @@
-package com.test.practice.automation.junit.person;
+package com.test.practice.automation.junit.E2_person;
 
 /**
  * Created by TPD_Auto on 15/12/2016.

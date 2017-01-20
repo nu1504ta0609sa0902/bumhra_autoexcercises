@@ -1,4 +1,4 @@
-package com.test.practice.automation.junit.person;
+package com.test.practice.automation.junit.E2_person;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * Created by TPD_Auto on 03/01/2017.
  */
-public class PersonTest {
+public class J1_PersonBasicTest {
 
 
     /**
@@ -29,7 +29,7 @@ public class PersonTest {
     /**
      * @Todo Aim: Able to change firstName to something else
      *
-     * 1. Create a person object with value "Colly"
+     * 1. Create a E2_person object with value "Colly"
      *  - Verify firstName set to "Colly"
      * 2. change the firstName
      *  - use the setFirstName() method
@@ -45,7 +45,7 @@ public class PersonTest {
     /**
      * @Todo Aim: Able to create object and use the properties defined
      *
-     * 1. Create a person object and don't set the lastName
+     * 1. Create a E2_person object and don't set the lastName
      * 2. Verify lastName is null
      */
     @Test
