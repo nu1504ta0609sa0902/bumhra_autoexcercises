@@ -11,7 +11,7 @@ public class T1_TestGoogleWebsite {
     /**
      * @todo Aim: Goto Google perform a search, use InternetExplorer driver
      *
-     * 1. Open InternetExplorer browser and to to Google : https://www.google.com
+     * 1. Open InternetExplorer browser and go to Google : https://www.google.com
      * 2. Perform a search for "Tfl Journey Planner"
      * 3. Verify the heading is correct
      * 4. Verify there is a link containing "Tfl Journey Planner"
@@ -22,7 +22,7 @@ public class T1_TestGoogleWebsite {
     /**
      * @todo Aim: Goto Google perform a search, use Google Chrome driver
      *
-     * 1. Open Google Chrome browser and to to Google : https://www.google.com
+     * 1. Open Google Chrome browser and go to Google : https://www.google.com
      * 2. Perform a search for "Tfl Journey Planner"
      * 3. Verify the heading is correct
      * 4. Verify there is a link containing "Tfl Journey Planner"
@@ -33,7 +33,7 @@ public class T1_TestGoogleWebsite {
     /**
      * @todo Aim: Goto Google perform a search, use Firefox driver
      *
-     * 1. Open InternetExplorer browser and to to Firefox : https://www.google.com
+     * 1. Open Firefox browser and go to Google : https://www.google.com
      * 2. Perform a search for "Tfl Journey Planner"
      * 3. Verify the heading is correct
      * 4. Verify there is a link containing "Tfl Journey Planner"

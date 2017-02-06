@@ -11,7 +11,7 @@ public class T3_TestTFLWebsite {
     /**
      * @todo Aim: Goto TFL perform a journey planner search, use InternetExplorer driver
      *
-     * 1. Open InternetExplorer browser and to to Google : https://tfl.gov.uk/plan-a-journey/
+     * 1. Open InternetExplorer browser and go to TFL Journey Planner : https://tfl.gov.uk/plan-a-journey/
      * 2. Perform a search USING the "Tfl Journey Planner"
      *      - DONT SELECT FROM AUTO SUGGESTS FOR THIS EXERCISE
      *      - Enter from station : Seven Sisters
@@ -25,7 +25,7 @@ public class T3_TestTFLWebsite {
     /**
      * @todo Aim: Goto TFL perform a journey planner search, use Google Chrome driver
      *
-     * 1. Open Google Chrome browser and to to Google : https://tfl.gov.uk/plan-a-journey/
+     * 1. Open Google Chrome browser and go to TFL Journey Planner : https://tfl.gov.uk/plan-a-journey/
      * 2. Perform a search USING the "Tfl Journey Planner"
      *      - Enter from station : Seven Sisters
      *          - SELECT AN OPTION FROM AUTO SUGGESTS
@@ -40,7 +40,7 @@ public class T3_TestTFLWebsite {
     /**
      * @todo Aim: Goto TFL perform a journey planner search, use Firefox driver
      *
-     * 1. Open InternetExplorer browser and to to Firefox : https://tfl.gov.uk/plan-a-journey/
+     * 1. Open Firefox browser and go to TFL Journey Planner : https://tfl.gov.uk/plan-a-journey/
      * 2. Perform a search USING the "Tfl Journey Planner"
      *      - Enter from station : Seven Sisters
      *          - SELECT AN OPTION FROM AUTO SUGGESTS
