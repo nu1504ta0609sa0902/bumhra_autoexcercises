@@ -1,7 +1,0 @@
-Using the Primitives.class provided do the following:
-
-A. Initialise primitive values and perform simple calculation
-    1. create 2 variables of type integers with values, call it what ever you want e.g number1, number2
-    2. create a new integer variable called "sum"
-    3. perform a simple addition of integers you've created in step (1) and store the value into variable "sum"
-    4. print the sum of step (3) into the console

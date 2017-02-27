@@ -11,8 +11,8 @@ public class E5_Exceptions {
     public static void main(String[] args) {
 
         //The line below will read from console
-        double n1 = 1;
-        double n2 = 0;
+        int n1 = 1;
+        int n2 = 0;
         double sum = 0;
 
         /**
@@ -21,6 +21,7 @@ public class E5_Exceptions {
          * 2. What will happen if we divided n2 by n1
          * 3. Write a try and catch block to prevent the program from terminating prematurely
          */
+
         System.out.println("\n---------------New Exercise---------------\n");
 
     }
