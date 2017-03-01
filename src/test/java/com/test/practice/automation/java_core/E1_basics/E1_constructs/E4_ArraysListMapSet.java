@@ -11,7 +11,7 @@ public class E4_ArraysListMapSet {
     public static void main(String[] args){
 
         /**
-         * @Todo Aim: Create a E1_simple array and iterate over the values
+         * @Todo Aim: Create a  simple array and iterate over the values
          * 1. Create a E1_simple int array with 10 integer values
          * 2. Iterate and print array values to console using "for loop"
          * 3. Iterate and print array values to console using "while loop"
@@ -20,7 +20,7 @@ public class E4_ArraysListMapSet {
 
 
         /**
-         * @Todo Aim: Create a E1_simple ArrayList and iterate over the values
+         * @Todo Aim: Create a simple ArrayList and iterate over the values
          * 1. Create a E1_simple ArrayList with 10 string values
          * 2. Iterate and print ArrayList values to console using "for loop"
          * 3. Iterate and print ArrayList values to console using "while loop"
@@ -29,7 +29,7 @@ public class E4_ArraysListMapSet {
 
 
         /**
-         * @Todo Aim: Create a E1_simple HashMap and iterate over the values
+         * @Todo Aim: Create a simple HashMap and iterate over the values
          * 1. Create a E1_simple Map of type HashMap with 5 string values
          * 2. Iterate and print HashMap values to console using "for loop"
          * 3. Iterate and print HashMap values to console using "while loop"
@@ -39,7 +39,7 @@ public class E4_ArraysListMapSet {
 
 
         /**
-         * @Todo Aim: Create a E1_simple Set and iterate over the values
+         * @Todo Aim: Create a simple Set and iterate over the values
          * 1. Create a E1_simple Set of type HashSet with 5 string values
          * 2. Iterate and print HashSet values to console using "for loop"
          * 3. Iterate and print HashSet values to console using "while loop"

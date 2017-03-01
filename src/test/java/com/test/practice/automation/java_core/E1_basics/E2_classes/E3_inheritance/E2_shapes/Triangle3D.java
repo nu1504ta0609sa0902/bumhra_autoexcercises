@@ -2,6 +2,9 @@ package com.test.practice.automation.java_core.E1_basics.E2_classes.E3_inheritan
 
 /**
  * Created by TPD_Auto on 16/12/2016.
+ *
+ * Triangle3D is a _Shape
+ * But not every shape is a Triangle3D
  */
 public class Triangle3D extends _Shape{
 

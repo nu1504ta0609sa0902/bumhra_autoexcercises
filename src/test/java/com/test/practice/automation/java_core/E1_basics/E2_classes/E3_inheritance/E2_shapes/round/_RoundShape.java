@@ -4,6 +4,9 @@ package com.test.practice.automation.java_core.E1_basics.E2_classes.E3_inheritan
  * Created by TPD_Auto on 04/01/2017.
  *
  * SUPER class : Extend it for Circle and Cylinder
+ *
+ * Circle is a _RoundShape
+ * But not every _RoundShape is a Circle
  */
 public class _RoundShape {
 

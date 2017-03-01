@@ -6,6 +6,7 @@ import com.test.practice.automation.java_core.E1_basics.E2_classes.E3_inheritanc
  * Created by TPD_Auto on 16/12/2016.
  *
  * Peugeot is-A Car
+ * Not all cars are Peugeot
  */
 public class Peugeot extends _Car {
 
@@ -20,6 +21,8 @@ public class Peugeot extends _Car {
          *  - _Car is also known as parent class
          * 4. Try to view the property called colour
          *  - colour is not visible because Peugeot class is in another package
+         *
+         *  PRINTOUT WHAT YOU HAVE LEARNT
          */
         System.out.println("\n---------------New Exercise---------------\n");
         Peugeot peugeot = new Peugeot();

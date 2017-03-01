@@ -4,6 +4,7 @@ package com.test.practice.automation.java_core.E1_basics.E2_classes.E3_inheritan
  * Created by TPD_Auto on 16/12/2016.
  *
  * Ford is-A Car
+ * But not every car is a Ford
  */
 public class Ford extends _Car {
 
@@ -19,6 +20,8 @@ public class Ford extends _Car {
          *  - _Car is also known as parent class
          * 4. Try to view the property called colour
          *  - We can access colour but remember the Peugeot class can't access colour.
+         *
+         *  PRINT OUT WHAT YOU HAVE LEARNT
          */
         System.out.println("\n---------------New Exercise---------------\n");
         Ford ford = new Ford();
