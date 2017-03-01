@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 
 /**
  * Created by TPD_Auto on 03/01/2017.
+ *
+ * Use the method ReadNumbers.getNumber()
+ * - Provided below
  */
 public class ReadNumbers {
 
