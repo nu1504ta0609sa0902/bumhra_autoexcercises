@@ -13,7 +13,7 @@ public class E2_Name {
 
 //    @Override
 //    public boolean equals(Object o) {
-//        Name name1 = (Name) o;
+//        E2_Name name1 = (E2_Name) o;
 //        return name.equals(name1.name);
 //
 //    }
@@ -29,7 +29,7 @@ public class E2_Name {
         /**
          * @Todo Aim: Understand why we need to override toString()
          *
-         * 1. I have created a new Name object with value of "Noor"
+         * 1. I have created a new E2_Name object with value of "Noor"
          * 2. Run the program and observe:
          * - Notice it prints out something like com.test.practice.automation.java_core.E1_basics.E2_classes.E2_equals_tostring.Name@6d6f6e28
          * - This is not what we are expecting
@@ -47,7 +47,7 @@ public class E2_Name {
         /**
          * @Todo Aim: Understand why we need to override equals()
          *
-         * 1. I have created a new Name object with value of "Noor"
+         * 1. I have created a new E2_Name object with value of "Noor"
          * 2. Run the program and observe:
          * - Notice it prints out the correct name now
          *      - Assuming you have uncommented toString()

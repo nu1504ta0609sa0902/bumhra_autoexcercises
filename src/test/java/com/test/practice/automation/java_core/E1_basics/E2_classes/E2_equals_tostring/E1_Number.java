@@ -13,7 +13,7 @@ public class E1_Number {
 
 //    @Override
 //    public boolean equals(Object o) {
-//        Number number1 = (Number) o;
+//        E1_Number number1 = (E1_Number) o;
 //        return number.equals(number1.number);
 //
 //    }
@@ -29,7 +29,7 @@ public class E1_Number {
         /**
          * @Todo Aim: Understand why we need to override toString()
          *
-         * 1. I have created a new Number object with value of 1
+         * 1. I have created a new E1_Number object with value of 1
          * 2. Run the program and observe:
          * - Notice it prints out something like com.test.practice.automation.java_core.E1_basics.E2_classes.E2_equals_tostring.Number@6d6f6e28
          * - This is not what we are expecting
@@ -47,7 +47,7 @@ public class E1_Number {
         /**
          * @Todo Aim: Understand why we need to override equals()
          *
-         * 1. I have created a new Number object with value of 1
+         * 1. I have created a new E1_Number object with value of 1
          * 2. Run the program and observe:
          * - Notice it prints out the correct number now
          *      - Assuming you have uncommented toString()

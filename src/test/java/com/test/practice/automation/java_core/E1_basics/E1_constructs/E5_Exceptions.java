@@ -24,5 +24,17 @@ public class E5_Exceptions {
 
         System.out.println("\n---------------New Exercise---------------\n");
 
+
+
+        /**
+         * @Todo Aim: Understand the purpose of try/catch to prevent the program from terminating prematurely 2
+         * 1. We have a variable called number="one"
+         * 2. What will happen if we try to parse it to Integer
+         * 3. Write a try and catch block to prevent the program from terminating prematurely
+         */
+        String number = "one";
+        int nOne = Integer.parseInt(number);
+        System.out.println(nOne);
+
     }
 }

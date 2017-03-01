@@ -20,7 +20,7 @@ public class E3_Vehicle {
         /**
          * @Todo Aim: Understanding of why we need to override toString()
          *
-         * 1. Create a new Vehicle object call it v1
+         * 1. Create a new E3_Vehicle object call it v1
          *  - make = Ford, model = Focus , year = 2005
          * 2. Run the program and observe:
          * - Notice it prints out something like com.test.practice.automation.java_core.E1_basics.E2_classes.E2_equals_tostring.E3_Vehicle@6d6f6e28
@@ -38,7 +38,7 @@ public class E3_Vehicle {
         /**
          * @Todo Aim: Understanding of why we need to override equals()
          *
-         * 1. Create a new Vehicle object call it v2
+         * 1. Create a new E3_Vehicle object call it v2
          *  - make = Ford, model = Focus , year = 2005
          *
          * 2. Run the program and observe:
@@ -67,7 +67,7 @@ public class E3_Vehicle {
         /**
          * @Todo Aim: Understanding of why we need to override equals() part 2
          *
-         * 1. Create a new Vehicle object call it v3
+         * 1. Create a new E3_Vehicle object call it v3
          *  - make = Ford, model = Focus , year = 2015
          *
          * 2. Run the program and observe:
