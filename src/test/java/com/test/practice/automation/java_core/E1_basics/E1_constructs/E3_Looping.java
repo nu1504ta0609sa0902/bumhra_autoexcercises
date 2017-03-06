@@ -59,5 +59,41 @@ public class E3_Looping {
          * 3. Print out the total value of "sumOfOddNumbers2"
          */
         System.out.println("\n---------------New Exercise---------------\n");
+
+
+        /**
+         * @Todo Aim: Able to write do-while loops
+         * 1. Write a do-while loop which will print out numbers between 1 to 10
+         */
+        System.out.println("\n---------------New Exercise---------------\n");
+
+        /**
+         * @Todo Aim: Able to write do-while loops backward
+         * 1. Write a do-while loop which will print out number between 10 to 1
+         */
+        System.out.println("\n---------------New Exercise---------------\n");
+
+        /**
+         * @Todo Aim: Able to write do-while loops
+         * 1. Write a do-while loop which will print out a number betwee 1 to 10
+         */
+        System.out.println("\n---------------New Exercise---------------\n");
+
+
+        /**
+         * @Todo Aim: Able to write do-while loop and add all the ODD numbers
+         * 1. Write a do-while loop which will iterate numbers between 1 to 100
+         * 2. Create a new integer variable called "sumOfOddNumbers3" and if value is ODD number than add it to "sumOfOddNumbers3"
+         * 3. Print out the total value of "sumOfOddNumbers3"
+         */
+        System.out.println("\n---------------New Exercise---------------\n");
+
+        /**
+         * @Todo Aim: Able to write do-while loop and add all the EVEN numbers
+         * 1. Write a do-while loop which will iterate numbers between 1 to 100
+         * 2. Create a new integer variable called "sumOfOddNumbers4" and if value is EVEN number than add it to "sumOfOddNumbers4"
+         * 3. Print out the total value of "sumOfOddNumbers4"
+         */
+        System.out.println("\n---------------New Exercise---------------\n");
     }
 }
