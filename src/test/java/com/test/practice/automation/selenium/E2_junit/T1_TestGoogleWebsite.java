@@ -4,6 +4,8 @@ package com.test.practice.automation.selenium.E2_junit;
  * Created by TPD_Auto on 24/01/2017.
  *
  * Write JUnit tests to perform all the tasks below
+ *
+ * - Use what you have learnt in the previous lessons
  */
 public class T1_TestGoogleWebsite {
 
