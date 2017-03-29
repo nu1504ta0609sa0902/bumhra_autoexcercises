@@ -13,7 +13,7 @@ public class TEMPLATE {
 
 
         /**
-         * @Todo Aim:
+         * @Todo Aim:S
          *
          * 1.
          * 2.
