@@ -1,0 +1,25 @@
+Write tests using Selenium and Page Objects.
+
+1. Login to devices page as Business
+2. Login to devices page as Manufacturer
+3. Login to devices as Business
+    - Go to records page
+        - Go to Accounts and verify your in the correct page
+3. Login to devices as Business
+    - Go to records page
+        - Go to All Devices and verify your in the correct page
+4. Login to devices as Business
+    - Go to Actions page
+        - Go to create test account
+        - Create a test account
+        - Go to tasks page
+            - verify tasks created for new account
+5. Login to devices as manufacturer
+    - Go to list of manufacturers page
+6. Login to devices as manufacturer
+    - Go to list of manufacturers page
+    - Go to create new manufacturer page
+        - Create a manufacturer
+    - Logout and log back in as Business
+        - Go to tasks page
+            - verify tasks created for new manufacturer
