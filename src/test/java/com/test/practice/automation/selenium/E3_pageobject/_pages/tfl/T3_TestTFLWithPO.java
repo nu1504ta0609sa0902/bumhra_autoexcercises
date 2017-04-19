@@ -17,21 +17,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class T3_TestTFLWithPO {
 
-    static WebDriver driver;
-    private TFLHomePage tflHome;
-
-    @BeforeClass
-    public static void initialiseDriver(){
-        System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chrome\\chromedriver.exe");
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-    }
-
-    @Before
-    public void setUpTestData(){
-        tflHome = new TFLHomePage(driver);
-    }
-
 
     /**
      * @todo Aim: Use Page Objects, Go to TFL perform a journey planner search, use InternetExplorer driver
@@ -60,15 +45,6 @@ public class T3_TestTFLWithPO {
      * 4. Verify disambiguation page is displayed
      *  - Verify there is a message : We found more than one location matching 'Paddington'
      */
-    @Test
-    public void verifyDisambiguationIsDisplayed(){
-        tflHome = tflHome.gotoJourneyPlannerPage();
-        //Enter from station
-        boolean isFromStation = true;
-        tflHome.selectFromAutoSuggestionsDD(isFromStation, "Seven Sisters Under" );
-        tflHome.selectFromAutoSuggestionsDD(false, "Paddington" );
-        System.out.println();
-    }
 
 
     /**
